@@ -9,7 +9,7 @@ Today we will solve a new challenge
 
 This is my challenge!
 First I understood what Matryoshka doll was: is a set of wooden dolls of descending size placed inside each other.So we understand that our flag is hidden by a lot of nested data.
-Step 1 :
+
 We still check the file type.
 
 
